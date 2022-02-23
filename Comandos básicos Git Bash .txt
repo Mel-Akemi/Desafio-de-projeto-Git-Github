@@ -1,0 +1,17 @@
+git init 	cria um novo repositório
+
+git clone 	faz uma cópia do repositório remoto para o local
+
+git remote	 -v exibe o repositório que está apontado
+
+git status	 verifica o status do arquivo
+
+git add *	 adiciona todos os arquivos
+
+git commit -m "inserir mensagem"	 comita inserindo mensagem
+
+git remote add origin git@github.com:Mel-Akemi/Desafio-de-projeto-Git-Github.git	 vincula um repositório local com um remoto
+
+git push	 envia arquivo o repositório remoto
+
+git pull	 atualiza o repositório local com o remoto
